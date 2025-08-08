@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/rryt1qh/Green-and-Black-Modern-Gamer-You-Tube-Banner-2.png)
+![Banner](https://siam-ul-islam-si.imgbb.com/)
 
 # 👋 Hi, I'm MD. Samiul Islam
 ### 🚀 Frontend Developer | React.js Enthusiast
