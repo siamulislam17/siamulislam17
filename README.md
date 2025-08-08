@@ -49,8 +49,11 @@ Always curious to learn and explore new technologies that make the web better.
 ---
 
 ## 🌐 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siam-ul-islam-siam-233bb22a0)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/siam.ul.islam.428705)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/siamulislam17)
+
 
 ---
 
