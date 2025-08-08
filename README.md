@@ -1,4 +1,4 @@
-![Banner](https://siam-ul-islam-si.imgbb.com/)
+![Banner](https://i.ibb.co/rryt1qh/Green-and-Black-Modern-Gamer-You-Tube-Banner-2.png)
 
 # 👋 Hi, I'm MD. Samiul Islam
 ### 🚀 Frontend Developer | React.js Enthusiast
@@ -46,4 +46,4 @@ Always curious to learn and explore new technologies that make the web better.
 ## 📊 GitHub Stats
 ![Samiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=siamulislam17&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siamulislam17&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siamulislam17&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=siamulislam17&theme=radical)
