@@ -62,5 +62,6 @@ Always curious to learn and explore new technologies that make the web better.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamulislam17&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=siamulislam17&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=siamulislam17&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
